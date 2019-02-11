@@ -182,6 +182,7 @@ section {
   }
   .item {
     flex-basis: 50vw;
+    min-height: 229px;
   }
   img {
     width: 50vw;
