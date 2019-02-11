@@ -156,6 +156,12 @@ section {
     max-width: 100%;
     padding: 1rem;
   }
+  h3 {
+    font-size: 0.9rem;
+  }
+  .card-main-content p {
+    font-size: 0.85rem;
+  }
 }
 
 @media screen and (max-width: 700px) {
